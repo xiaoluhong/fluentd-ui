@@ -1,4 +1,4 @@
-FROM ruby:2.2.3
+FROM ruby
 
 EXPOSE 24224
 EXPOSE 9292
